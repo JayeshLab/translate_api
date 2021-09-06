@@ -1,0 +1,22 @@
+{
+  "name": "translate_api",
+  "version": "1.0.0",
+  "description": "Translation API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayeshLab/translate_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayeshLab/translate_api/issues"
+  },
+  "homepage": "https://github.com/JayeshLab/translate_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
